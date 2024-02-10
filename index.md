@@ -1,6 +1,6 @@
 # Name 
 - ZHANG Qianqian
-# Bio
+# BULP:https://dblp.org/pid/19/771-3.html
 + A new career research.
 # Research interest
 + I develop and apply innovative information technologies related research, focusing on Geographical Information Systems (GIS), Remote Sensing (RS), Sensor, Visualisation, and Numerical Modelling in Earth Observation, Disaster Management, and Earth Resources Management.
